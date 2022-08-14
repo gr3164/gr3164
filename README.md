@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gr3164
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, Я @gr3164
+- 👀 Меня интересует front-end разработка  
+- 🌱 Я сейчас учусь в онлаин школе GeekBrains по профессии "Frontend-Программист"
+- 📫 Моя мечта : Стать хорошим специалистом и работать удаленно
 
 <!---
 gr3164/gr3164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
